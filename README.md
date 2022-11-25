@@ -1,4 +1,6 @@
 ### Olá👋
 
 - 🔌 Estudante de Engenharia Eletrônica
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
+- 👨‍💻 Entusiasta de programação e tecnologias
+- 
