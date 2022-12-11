@@ -5,3 +5,6 @@
 - 👨‍💻 Entusiasta de programação e tecnologias
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-hiemer)
+
+##  &nbsp;📊Github Analytics:
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Hiemer23&show_icons=true&theme=tokyonight" alt="Andrey stats">
