@@ -4,7 +4,7 @@
 - 😄 Pronomes: ele/dele
 - 👨‍💻 Entusiasta de programação e tecnologias
 
-<code><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-hiemer'></code>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-hiemer) 
 
 ##  &nbsp;💡Tecnologias que utilizo
 
